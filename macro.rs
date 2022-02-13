@@ -224,3 +224,4 @@ macro_rules! make_text_endpoints {
         ) +
     };
 }
+// newline!
